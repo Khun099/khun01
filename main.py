@@ -11,7 +11,7 @@ import random
 from re import search
 from requests import Session
 from re import search
-from bs4 import BeautifulSoup as bs4
+from bs4 import BeautifulSoup as bs
 from user_agent import generate_user_agent
 from requests import Session,post,get
 os.system("clear")
